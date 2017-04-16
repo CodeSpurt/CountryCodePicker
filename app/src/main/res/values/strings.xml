@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountryCodePicker</string>
+    <string name="get_country_code">Get Country Code</string>
+    <string name="selected_country_code">Selected Country Code:</string>
+</resources>
